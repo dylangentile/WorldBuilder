@@ -10,7 +10,7 @@ Vertex::~Vertex(){
 
 
 void
-Vertex::init(double mX, double mY, double mZ, long long id){
+Vertex::init(double mX, double mY, double mZ, long long mId){
 	built = true;
 	x = mX;
 	y = mY;
